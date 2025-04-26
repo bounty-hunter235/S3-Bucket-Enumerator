@@ -1,13 +1,24 @@
-# S3-Bucket-Enumerator
-S3 Bucket Enumerator Tool Written in Python 
+**S3-Bucket-Enumerator**
+A simple S3 Bucket Enumerator Tool written in Python.
 
-Requirement:
-Python 3.10+
-and
-pip
+**Requirements:**
 
-Usage:
-Python S3-Bucket-Enumerator.py
+-Python 3.10+
 
-![image](https://github.com/user-attachments/assets/27dda131-cb27-407d-921d-7d5074f56736)
+-pip
 
+-awscli
+
+**Installation:**
+
+git clone https://github.com/bounty-hunter235/S3-Bucket-Enumerator.git
+
+cd S3-Bucket-Enumerator
+
+pip install awscli
+
+**Usage:**
+
+python S3-Bucket-Enumerator.py
+
+![image](https://github.com/user-attachments/assets/a668b5bf-66c0-4364-9f23-3137f804758c)
