@@ -3,6 +3,7 @@ S3 Bucket Enumerator Tool Written in Python
 
 Requirement:
 Python 3.10+
+and
 pip
 
 Usage:
